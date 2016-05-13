@@ -1,2 +1,2 @@
-# angular-2-stater
-Demo app 
+# angular-2-starter
+
